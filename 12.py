@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import hashlib
 
 a = input("md5 pass : ")
